@@ -1,0 +1,45 @@
+
+
+
+
+Cover sheet for sunrise/sunset photos for Astro 107, Dr. Williger
+
+
+NAME:__________________________________________________ CLASS#:_____________
+
+
+OBSERVING SITE:__________________________________________________
+This should be the same for all 6 photos.  There should be 10-14 days
+between photos.  A little flexibility is allowed due to weather.
+Be sure to follow the directions on the class website to take useful
+photos. Use the same camera and lens for all observations.
+
+Use the website http://astropixels.com/ephemeris/ephemeris.html
+
+to determine the Sun's right ascension and declination for the day. 
+Estimate the Sun's azimuth using a compass, map and/or landmarks,
+to the nearest 20 degrees. For example, exactly west is 270 degrees.
+
+
+TYPE OF CAMERA AND LENS: ___________________________________________________
+
+                                   SUN'S        SUN'S            SUN'S
+OBSERVATION   DATE      TIME     AZIMUTH    RIGHT ASCENSION   DECLINATION
+
+     1        _______   _______  _______    _______________   ____________
+
+     2        _______   _______  _______    _______________   ____________
+
+     3        _______   _______  _______    _______________   ____________
+
+     4        _______   _______  _______    _______________   ____________
+
+     5        _______   _______  _______    _______________   ____________
+
+     6        _______   _______  _______    _______________   ____________
+
+
+What do you conclude about the relationship between the Sun's declination
+and its azimuth at sunset or sunrise?  Be specific:  where does the
+Sun tend to set (or rise) when it has a northerly declination compared to
+a southerly one?
