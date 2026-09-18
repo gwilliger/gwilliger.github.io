@@ -1,0 +1,98 @@
+Cover sheet for planet or deep sky object (cluster, nebula, galaxy) photo(s) for Astro 107, Dr. Williger
+
+
+NAME:__________________________________________________ CLASS#:_____________
+
+You have two options:
+
+OPTION 1: WITHOUT A TELESCOPE. Include at least one other astronomical
+object (star, another planet, the moon) or at least one identifiable
+ground object (building, tree,bridge etc.).  A cell phone camera might
+work, but you'll need conditions to be just right to do it.
+
+OPTION 2: WITH A TELESCOPE.  You do not have to include another
+astronomical object depending on your field of view.
+
+For RA, dec information use the website http://astropixels.com/ephemeris/ephemeris.html
+
+CAUTION:  The date, RA and dec on that website are for 03 hours UT (Universal 
+Time or Greenwich Mean Time) (10pm EST or 11pm EDT the night before, depending
+on whether we are on daylight saving time or not). This means that the DATE on
+the chart is ONE DAY LATER than for Louisville if you are observing before
+midnight!  You can interpolate the RA and dec if you like for your time of
+observation, but give your calculation if you do so.
+
+FOR EITHER OPTION:
+
+Planet or deep sky object:____________________ Date:_____________     Local Time:_______   
+
+Right Ascension (on date):__________   declination (on date):_________
+
+
+Observing location: ________________________________________
+
+Sky conditions (e.g. clear, light clouds, partly cloudy): ___________________________________
+
+
+Planet/deep sky object altitude (deg):_____________________  azimuth (deg):__________________
+           
+observing conditions: _______________________________________________________________________
+
+_____________________________________________________________________________________________
+
+
+OPTION 1: WITHOUT A TELESCOPE, USING A CAMERA:
+TYPE OF CAMERA AND LENS (give diameter and f-ratio to best of your ability): 
+
+_________________________________________________________________________________
+
+
+Describe your observation:
+What else is in the field? __________________________________________________
+
+_____________________________________________________________________________
+
+
+What is your approximate field of view of your camera in degrees? ___________
+
+______________________________________________________________________________
+
+
+What is the faintest astronomical object in your photo and its approximate magnitude?
+
+__________________________________________________________________________________
+
+
+OPTION 2: WITH A TELESCOPE.
+
+Describe your camera (as above) AND telescope: manufacturer, reflector/refractor, objective diameter  
+
+and focal length or f-ratio, eyepiece focal length ___________________________________
+
+___________________________________________________________________________________
+
+_____________________________________________________________________________________
+
+
+Give the focal length ratio (objective/eyepiece = magnification): __________________
+
+
+What is your approximate field of view in degrees (if >1 deg) or arcminutes (if <1 deg)?
+
+____________________________________________________________________________________
+
+
+What was the approximate seeing in arcsec, to the best of your estimation if you can give it?  This
+varies by weather conditions and location.  The seeing in Louisville is rarely better than 2-3 arcseconds.
+
+Say how you estimated the seeing (resolved double star, feature on planet etc.): _______________
+
+
+
+If you had any help with the telescope, please say who helped you and how you found the person (e.g.
+
+Louisville Astronomical Society):
+
+_______________________________________________________________________________________________
+
+
