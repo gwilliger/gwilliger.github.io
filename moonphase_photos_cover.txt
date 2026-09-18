@@ -1,0 +1,86 @@
+
+
+
+
+Cover sheet for Moon phase photos for Astro 107, Dr. Williger
+
+
+NAME:__________________________________________________ CLASS#:_____________
+
+
+Photos should be taken within 3 days of new, first quarter, full and third
+quarter.  For new Moon, you need to be at least one day off to get some
+crescent. Be sure to follow the directions on the class website to take useful
+photos.  You may not be able to  take the photos in order because of weather
+problems, so photos taken out of order are fine.  Altitude should be to within 5
+degrees.  Your fist at arm's length should subtend about 10-20 degrees.  (Check
+it with your planisphere -- it has a protractor!  
+If it's not, then estimate the altitude using the protractor on your
+planisphere.)  Azimuth
+should be one of N,NE,E,SE,S,SW,W,NW.  Use a compass, map, GPS or any other
+system you like to determine azimuth.  Use the (general) extra credit site link for 
+right ascension (RA) and declination (dec). Use the same camera and lens for all
+observations.  Observing conditions means clear, cloudy, hazy, partly cloudy etc.
+
+The Moon's daily right ascension (RA) and declination (dec) are listed 
+in the ephemeris at
+
+Use the website http://astropixels.com/ephemeris/ephemeris.html
+and click on "Geocentric Ephemerides for the Sun, Moon and planets: 2021 to 2030"
+then on the current year.
+
+CAUTION:  The date, RA and dec on that website are for 03 hours UT (Universal 
+Time or Greenwich Mean Time) (10pm EST or 11pm EDT the night before, depending
+on whether we are on daylight saving time or not). This means that the DATE on
+the chart is ONE DAY LATER than for Louisville if you are observing before
+midnight!  You can interpolate the RA and dec if you like for your time of
+observation, but give your calculation if you do so.
+
+TYPE OF CAMERA AND LENS: ___________________________________________________
+
+
+
+
+NEW MOON: Date:_____________     Local Time:_______   RA:__________   dec:_________
+
+
+Observing location: ________________________________________
+
+altitude:_____________________  azimuth:______________________________
+           
+observing conditions: _______________________________________________________
+
+----------------------------------------------------------------------------------
+
+FIRST QUARTER: Date:_____________     Local Time:_______   RA:__________   dec:_________
+
+
+Observing location: ________________________________________
+
+altitude:_____________________  azimuth:______________________________
+           
+observing conditions: _______________________________________________________
+
+----------------------------------------------------------------------------------
+
+FULL MOON: Date:_____________     Local Time:_______   RA:__________   dec:_________
+
+
+Observing location: ________________________________________
+
+altitude:_____________________  azimuth:______________________________
+           
+observing conditions: _______________________________________________________
+
+----------------------------------------------------------------------------------
+
+
+THIRD QUARTER: Date:_____________     Local Time:_______   RA:__________   dec:_________
+
+
+Observing location: ________________________________________
+
+altitude:_____________________  azimuth:______________________________
+           
+observing conditions: _______________________________________________________
+
